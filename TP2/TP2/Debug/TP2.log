@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (TP2.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  Exo1.c
+C:\Users\flori\source\repos\TP2\TP2\Exo1.c(34,12): warning C4477: 'scanf_s' : la chaîne de format '%u' nécessite un argument de type 'unsigned int *', mais l'argument variadique 1 est de type 'unsigned short *'
+C:\Users\flori\source\repos\TP2\TP2\Exo1.c(34,12): message : utilisez '%hu' dans la chaîne de format
+  TP2.vcxproj -> C:\Users\flori\source\repos\TP2\Debug\Exo1.exe
